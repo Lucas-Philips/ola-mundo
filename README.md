@@ -2,7 +2,7 @@
 Repo para realizar os testes da aula de GitHub.
 _Uma lista dos comandos Git mais usados_
 
-*Se você está interessado em meus aliases do Git, dê uma olhada no meu `.bash_profile`, encontrado aqui: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
+*Se você está interessado em mais informações sobre o Git, você poderá encontrar aqui: https://git-scm.com/doc.*
 
 --
 
